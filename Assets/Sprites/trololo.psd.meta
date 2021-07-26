@@ -1,0 +1,2432 @@
+fileFormatVersion: 2
+guid: 7f0e7299fa1c27e4286f46720516168f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4075622610881013429
+    second: trololo_0
+  - first:
+      213: 5460784894232902726
+    second: trololo_1
+  - first:
+      213: -1540180724443255982
+    second: trololo_2
+  - first:
+      213: 914288519065685587
+    second: trololo_3
+  - first:
+      213: 7137176647052982940
+    second: trololo_4
+  - first:
+      213: 8150687658309171034
+    second: trololo_5
+  - first:
+      213: 2704713316242744094
+    second: trololo_6
+  - first:
+      213: 7334278778373784562
+    second: trololo_7
+  - first:
+      213: 7885059575589945795
+    second: trololo_8
+  - first:
+      213: 5149489298442822605
+    second: trololo_9
+  - first:
+      213: -8858888741224508503
+    second: trololo_10
+  - first:
+      213: 5086718952661355133
+    second: trololo_11
+  - first:
+      213: 210058249814373566
+    second: trololo_12
+  - first:
+      213: -3422593222054327405
+    second: trololo_13
+  - first:
+      213: -5642442545102577221
+    second: trololo_14
+  - first:
+      213: 3632851261929403689
+    second: trololo_15
+  - first:
+      213: 8942215388053037167
+    second: trololo_16
+  - first:
+      213: -4424001866530741008
+    second: trololo_17
+  - first:
+      213: 8671083127089446612
+    second: trololo_18
+  - first:
+      213: -6360090525547434170
+    second: trololo_19
+  - first:
+      213: 2880765989113033761
+    second: trololo_20
+  - first:
+      213: 5119672753819075040
+    second: trololo_21
+  - first:
+      213: -2556491508746994458
+    second: trololo_22
+  - first:
+      213: 95457908140210452
+    second: trololo_23
+  - first:
+      213: -536355308632285222
+    second: trololo_24
+  - first:
+      213: 679147755889709124
+    second: trololo_25
+  - first:
+      213: -1676992735717691826
+    second: trololo_26
+  - first:
+      213: 5778683994627706673
+    second: trololo_27
+  - first:
+      213: 6276342902118218910
+    second: trololo_28
+  - first:
+      213: -6548762197207712567
+    second: trololo_29
+  - first:
+      213: 57074003188047863
+    second: trololo_30
+  - first:
+      213: -315758942695181187
+    second: trololo_31
+  - first:
+      213: -4511427112038554493
+    second: trololo_32
+  - first:
+      213: 4257707757848317810
+    second: trololo_33
+  - first:
+      213: -7785255429296764052
+    second: trololo_34
+  - first:
+      213: -971401760807846064
+    second: trololo_35
+  - first:
+      213: 7633250315717207371
+    second: trololo_36
+  - first:
+      213: 4108431201855813900
+    second: trololo_37
+  - first:
+      213: 239569362992836435
+    second: trololo_38
+  - first:
+      213: 1124027599777151339
+    second: trololo_39
+  - first:
+      213: 6789855146019942427
+    second: trololo_40
+  - first:
+      213: 216353069883901580
+    second: trololo_41
+  - first:
+      213: 4455707456688589564
+    second: trololo_42
+  - first:
+      213: 6169169802407151579
+    second: trololo_43
+  - first:
+      213: -5877104305468153312
+    second: trololo_44
+  - first:
+      213: 8282522062850613534
+    second: trololo_45
+  - first:
+      213: -3966090869596927600
+    second: trololo_46
+  - first:
+      213: 315111803585516305
+    second: trololo_47
+  - first:
+      213: -7264727619404893814
+    second: trololo_48
+  - first:
+      213: -8859436047716073659
+    second: trololo_49
+  - first:
+      213: 5097612069361411211
+    second: trololo_50
+  - first:
+      213: 7229852924233698861
+    second: trololo_51
+  - first:
+      213: -892753123305661449
+    second: trololo_52
+  - first:
+      213: -5404152450527277259
+    second: trololo_53
+  - first:
+      213: -8514997588580460553
+    second: trololo_54
+  - first:
+      213: 8031867379321173098
+    second: trololo_55
+  - first:
+      213: 7065488848494753248
+    second: trololo_56
+  - first:
+      213: -5204248036584044754
+    second: trololo_57
+  - first:
+      213: 6784227074078825756
+    second: trololo_58
+  - first:
+      213: -4420777314554568062
+    second: trololo_59
+  - first:
+      213: 4864554726014484968
+    second: trololo_60
+  - first:
+      213: -7547687580693303926
+    second: trololo_61
+  - first:
+      213: 1509181277994915083
+    second: trololo_62
+  - first:
+      213: 9071454090006673127
+    second: trololo_63
+  - first:
+      213: -1869118608015026307
+    second: trololo_64
+  - first:
+      213: -7432817156219792921
+    second: trololo_65
+  - first:
+      213: 6051005311903244531
+    second: trololo_66
+  - first:
+      213: -2080933560175636680
+    second: trololo_67
+  - first:
+      213: -4602507462692913239
+    second: trololo_68
+  - first:
+      213: -6097330118338768769
+    second: trololo_69
+  - first:
+      213: 8315095061428289798
+    second: trololo_70
+  - first:
+      213: 764069698995018212
+    second: trololo_71
+  - first:
+      213: -8122583427913329368
+    second: trololo_72
+  - first:
+      213: -8382901249346271505
+    second: trololo_73
+  - first:
+      213: -3414429982777921709
+    second: trololo_74
+  - first:
+      213: 6118248731333318815
+    second: trololo_75
+  - first:
+      213: 4185524299171221195
+    second: trololo_76
+  - first:
+      213: 2521658462478753045
+    second: trololo_77
+  - first:
+      213: 3456592402011965818
+    second: trololo_78
+  - first:
+      213: -6131266524026033333
+    second: trololo_79
+  - first:
+      213: 5603167749489393254
+    second: trololo_80
+  - first:
+      213: 7755795556337262835
+    second: trololo_81
+  - first:
+      213: 318862859030690302
+    second: trololo_82
+  - first:
+      213: 2196222534362420084
+    second: trololo_83
+  - first:
+      213: 80552205915152219
+    second: trololo_84
+  - first:
+      213: 1542922771490467999
+    second: trololo_85
+  - first:
+      213: -990306801509890153
+    second: trololo_86
+  - first:
+      213: -8960429886559991405
+    second: trololo_87
+  - first:
+      213: -2916121224653695006
+    second: trololo_88
+  - first:
+      213: -1559610781003640047
+    second: trololo_89
+  - first:
+      213: 5861007855942981789
+    second: trololo_90
+  - first:
+      213: 8814471623285127423
+    second: trololo_91
+  - first:
+      213: 8161952280223600391
+    second: trololo_92
+  - first:
+      213: -5105321755986294821
+    second: trololo_93
+  - first:
+      213: -7207125067336127547
+    second: trololo_94
+  - first:
+      213: -4742134993738645597
+    second: trololo_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trololo_0
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 2476
+        width: 201
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6ec18cb258f8830800000000000000
+      internalID: 4075622610881013429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_1
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2474
+        width: 180
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c3297cdea98cb40800000000000000
+      internalID: 5460784894232902726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_2
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 2473
+        width: 136
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25be7a59acd20aae0800000000000000
+      internalID: -1540180724443255982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_3
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 2466
+        width: 162
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ec021609430bc00800000000000000
+      internalID: 914288519065685587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_4
+      rect:
+        serializedVersion: 2
+        x: 1419
+        y: 2468
+        width: 272
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a7eca98585c0360800000000000000
+      internalID: 7137176647052982940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_5
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 2469
+        width: 326
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a57bda4bd3f0d1170800000000000000
+      internalID: 8150687658309171034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_6
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 2469
+        width: 340
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13eae15e62198520800000000000000
+      internalID: 2704713316242744094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_7
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 2464
+        width: 223
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3c7a4b0b798c560800000000000000
+      internalID: 7334278778373784562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_8
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 2463
+        width: 181
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c4db38eb5d6d60800000000000000
+      internalID: 7885059575589945795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_9
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 2466
+        width: 166
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc32c58db39a67740800000000000000
+      internalID: 5149489298442822605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_10
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 2461
+        width: 159
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a31b9250a7ee0580800000000000000
+      internalID: -8858888741224508503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_11
+      rect:
+        serializedVersion: 2
+        x: 3926
+        y: 2468
+        width: 151
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a80a5dfe7a79640800000000000000
+      internalID: 5086718952661355133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_12
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 2460
+        width: 152
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb473528dd64ae200800000000000000
+      internalID: 210058249814373566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_13
+      rect:
+        serializedVersion: 2
+        x: 4427
+        y: 2471
+        width: 144
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39bcac429918080d0800000000000000
+      internalID: -3422593222054327405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_14
+      rect:
+        serializedVersion: 2
+        x: 4628
+        y: 2471
+        width: 147
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb12c91766402b1b0800000000000000
+      internalID: -5642442545102577221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_15
+      rect:
+        serializedVersion: 2
+        x: 4798
+        y: 2463
+        width: 155
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b12d99fa7a6230800000000000000
+      internalID: 3632851261929403689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_16
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2103
+        width: 152
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60eeed7481291c70800000000000000
+      internalID: 8942215388053037167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_17
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2105
+        width: 171
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f425c3edb9ca92c0800000000000000
+      internalID: -4424001866530741008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_18
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 2101
+        width: 151
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4debc08a920e55870800000000000000
+      internalID: 8671083127089446612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_19
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 2103
+        width: 166
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64fea6d3d5b6cb7a0800000000000000
+      internalID: -6360090525547434170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_20
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2105
+        width: 156
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124fb1677698af720800000000000000
+      internalID: 2880765989113033761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_21
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2105
+        width: 161
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c1a19e3bbc0740800000000000000
+      internalID: 5119672753819075040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_22
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 2103
+        width: 157
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec35d58484858cd0800000000000000
+      internalID: -2556491508746994458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_23
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 2105
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419f2b13672235100800000000000000
+      internalID: 95457908140210452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_24
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 2103
+        width: 156
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd39340bb7e88f0800000000000000
+      internalID: -536355308632285222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_25
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 2103
+        width: 155
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4405fc32941dc6900800000000000000
+      internalID: 679147755889709124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_26
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 2105
+        width: 149
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ee2a0fdff1ab8e0800000000000000
+      internalID: -1676992735717691826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_27
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 2103
+        width: 150
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f0501f972023050800000000000000
+      internalID: 5778683994627706673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_28
+      rect:
+        serializedVersion: 2
+        x: 4108
+        y: 2104
+        width: 145
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cfc41bd9c0a1750800000000000000
+      internalID: 6276342902118218910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_29
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 2093
+        width: 163
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7dec7a7f1e15a0800000000000000
+      internalID: -6548762197207712567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_30
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 2103
+        width: 149
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffdee5e084cac000800000000000000
+      internalID: 57074003188047863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_31
+      rect:
+        serializedVersion: 2
+        x: 4795
+        y: 2117
+        width: 133
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7430022ae23e9bf0800000000000000
+      internalID: -315758942695181187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1603
+        width: 212
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38420e4b1f03461c0800000000000000
+      internalID: -4511427112038554493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_33
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1604
+        width: 179
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f49ffb5aa661b30800000000000000
+      internalID: 4257707757848317810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_34
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1601
+        width: 138
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bc5136f6735f390800000000000000
+      internalID: -7785255429296764052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_35
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 1600
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ffbd8ce33e482f0800000000000000
+      internalID: -971401760807846064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_36
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 1605
+        width: 253
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4566fd28b0cee960800000000000000
+      internalID: 7633250315717207371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_37
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 1603
+        width: 327
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c093fb22964140930800000000000000
+      internalID: 4108431201855813900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_38
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1604
+        width: 330
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f214cf01f135300800000000000000
+      internalID: 239569362992836435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_39
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 1605
+        width: 231
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69b37a8529599f00800000000000000
+      internalID: 1124027599777151339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_40
+      rect:
+        serializedVersion: 2
+        x: 3088
+        y: 1603
+        width: 156
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1070e6f7496a3e50800000000000000
+      internalID: 6789855146019942427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_41
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1600
+        width: 167
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86ce7488f3a00300800000000000000
+      internalID: 216353069883901580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_42
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 1601
+        width: 157
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa8bf2135ad5dd30800000000000000
+      internalID: 4455707456688589564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_43
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 1604
+        width: 155
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd78b87ef3b4d9550800000000000000
+      internalID: 6169169802407151579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_44
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 1601
+        width: 144
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022e6acb5c4507ea0800000000000000
+      internalID: -5877104305468153312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_45
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 1603
+        width: 158
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11eb88feed61f270800000000000000
+      internalID: 8282522062850613534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_46
+      rect:
+        serializedVersion: 2
+        x: 4623
+        y: 1601
+        width: 157
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09941ca0e5d95f8c0800000000000000
+      internalID: -3966090869596927600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_47
+      rect:
+        serializedVersion: 2
+        x: 4799
+        y: 1605
+        width: 146
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1135f3d04808f5400800000000000000
+      internalID: 315111803585516305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_48
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1232
+        width: 161
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81f66768b08e2b90800000000000000
+      internalID: -7264727619404893814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_49
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1238
+        width: 145
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fb7999ad5fc0580800000000000000
+      internalID: -8859436047716073659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_50
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1238
+        width: 155
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84e7053b2b5eb640800000000000000
+      internalID: 5097612069361411211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_51
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1241
+        width: 160
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ec44fdde8955460800000000000000
+      internalID: 7229852924233698861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_52
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 1238
+        width: 157
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbde3da3cd4c93f0800000000000000
+      internalID: -892753123305661449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_53
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1241
+        width: 146
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fc34a8af79005b0800000000000000
+      internalID: -5404152450527277259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_54
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1238
+        width: 150
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f79a5dbec6a4d980800000000000000
+      internalID: -8514997588580460553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_55
+      rect:
+        serializedVersion: 2
+        x: 2749
+        y: 1241
+        width: 160
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a647c7ba3dce67f60800000000000000
+      internalID: 8031867379321173098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_56
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 1238
+        width: 156
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e573035ca8ad0260800000000000000
+      internalID: 7065488848494753248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_57
+      rect:
+        serializedVersion: 2
+        x: 3303
+        y: 1241
+        width: 148
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e274268ebfbc6c7b0800000000000000
+      internalID: -5204248036584044754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_58
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 1240
+        width: 151
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d5e0a549a662e50800000000000000
+      internalID: 6784227074078825756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_59
+      rect:
+        serializedVersion: 2
+        x: 3862
+        y: 1236
+        width: 148
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282aed6647e36a2c0800000000000000
+      internalID: -4420777314554568062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_60
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 1236
+        width: 149
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e18a82ffbe528340800000000000000
+      internalID: 4864554726014484968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_61
+      rect:
+        serializedVersion: 2
+        x: 4338
+        y: 1231
+        width: 145
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8de52d722a314790800000000000000
+      internalID: -7547687580693303926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_62
+      rect:
+        serializedVersion: 2
+        x: 4552
+        y: 1234
+        width: 160
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b059e885060b1f410800000000000000
+      internalID: 1509181277994915083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_63
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 1240
+        width: 140
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6bc17ae6744ed70800000000000000
+      internalID: 9071454090006673127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_64
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 668
+        width: 214
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77113e678e8f06e0800000000000000
+      internalID: -1869118608015026307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 669
+        width: 178
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1171b5d2459d890800000000000000
+      internalID: -7432817156219792921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_66
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 665
+        width: 136
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0aef5854d79f350800000000000000
+      internalID: 6051005311903244531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_67
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 670
+        width: 153
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83fca88c3f90f13e0800000000000000
+      internalID: -2080933560175636680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_68
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 668
+        width: 251
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afba1a09db9020c0800000000000000
+      internalID: -4602507462692913239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_69
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 668
+        width: 326
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70902aff8ee16ba0800000000000000
+      internalID: -6097330118338768769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_70
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 660
+        width: 335
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601c90237e6256370800000000000000
+      internalID: 8315095061428289798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_71
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 664
+        width: 225
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9dc30d7558a9a00800000000000000
+      internalID: 764069698995018212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_72
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 667
+        width: 159
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82550c85869c64f80800000000000000
+      internalID: -8122583427913329368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_73
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 666
+        width: 153
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6898d6ab3f9ab80800000000000000
+      internalID: -8382901249346271505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_74
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 660
+        width: 162
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f241665028d90d0800000000000000
+      internalID: -3414429982777921709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_75
+      rect:
+        serializedVersion: 2
+        x: 3927
+        y: 668
+        width: 148
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f985b962ec268e450800000000000000
+      internalID: 6118248731333318815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_76
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 662
+        width: 153
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcecdda9c28f51a30800000000000000
+      internalID: 4185524299171221195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_77
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 662
+        width: 142
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d57e4e20bbef220800000000000000
+      internalID: 2521658462478753045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_78
+      rect:
+        serializedVersion: 2
+        x: 4629
+        y: 666
+        width: 148
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79cc3fc97848ff20800000000000000
+      internalID: 3456592402011965818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_79
+      rect:
+        serializedVersion: 2
+        x: 4798
+        y: 669
+        width: 151
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b2f2cc49d59eaa0800000000000000
+      internalID: -6131266524026033333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 299
+        width: 154
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e7d3d916372cd40800000000000000
+      internalID: 5603167749489393254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_81
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 303
+        width: 150
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0290e67fe12ab60800000000000000
+      internalID: 7755795556337262835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_82
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 305
+        width: 148
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9f694b414dc6400800000000000000
+      internalID: 318862859030690302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_83
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 301
+        width: 156
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473516842cc8a7e10800000000000000
+      internalID: 2196222534362420084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_84
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 299
+        width: 147
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f5273fdcd2e1100800000000000000
+      internalID: 80552205915152219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_85
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 301
+        width: 142
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f90fc8ef510996510800000000000000
+      internalID: 1542922771490467999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_86
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 301
+        width: 149
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797895df539b142f0800000000000000
+      internalID: -990306801509890153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_87
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 303
+        width: 149
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3994cc81e7826a380800000000000000
+      internalID: -8960429886559991405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_88
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 302
+        width: 143
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e71a8a423bd787d0800000000000000
+      internalID: -2916121224653695006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_89
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 301
+        width: 155
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113986202462b5ae0800000000000000
+      internalID: -1559610781003640047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_90
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 301
+        width: 152
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98514f879b765150800000000000000
+      internalID: 5861007855942981789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_91
+      rect:
+        serializedVersion: 2
+        x: 3859
+        y: 304
+        width: 155
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8bba48d3b435a70800000000000000
+      internalID: 8814471623285127423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_92
+      rect:
+        serializedVersion: 2
+        x: 4104
+        y: 304
+        width: 147
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fca60ea54154170800000000000000
+      internalID: 8161952280223600391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_93
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 297
+        width: 147
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd70d5e79e04629b0800000000000000
+      internalID: -5105321755986294821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_94
+      rect:
+        serializedVersion: 2
+        x: 4558
+        y: 304
+        width: 147
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbed9dafe52bfb90800000000000000
+      internalID: -7207125067336127547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trololo_95
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 313
+        width: 136
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af324d195d803eb0800000000000000
+      internalID: -4742134993738645597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

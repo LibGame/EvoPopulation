@@ -1,0 +1,1427 @@
+fileFormatVersion: 2
+guid: 54a8a3681d7ad484baf6743260f51271
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3374811107381128937
+    second: Evo_0
+  - first:
+      213: 9099739897815910476
+    second: Evo_1
+  - first:
+      213: -7670341303167252818
+    second: Evo_2
+  - first:
+      213: 5789896600005285557
+    second: Evo_3
+  - first:
+      213: -5367169261099336589
+    second: Evo_4
+  - first:
+      213: -3244194359992635137
+    second: Evo_5
+  - first:
+      213: -2113731229105413405
+    second: Evo_6
+  - first:
+      213: -4866221875153312916
+    second: Evo_7
+  - first:
+      213: 5136072556098585869
+    second: Evo_8
+  - first:
+      213: 6706490162348049968
+    second: Evo_9
+  - first:
+      213: 8108589009999335952
+    second: Evo_10
+  - first:
+      213: -9019908603432631593
+    second: Evo_11
+  - first:
+      213: -5152798906553760920
+    second: Evo_12
+  - first:
+      213: -5534552799826812589
+    second: Evo_13
+  - first:
+      213: -5000285688197452646
+    second: Evo_14
+  - first:
+      213: 8782737370423891549
+    second: Evo_15
+  - first:
+      213: -2470185561176067368
+    second: Evo_16
+  - first:
+      213: 5093907282029165421
+    second: Evo_17
+  - first:
+      213: 4424712167012208184
+    second: Evo_18
+  - first:
+      213: -8497190415513836655
+    second: Evo_19
+  - first:
+      213: -4322012860088558160
+    second: Evo_20
+  - first:
+      213: 5517297784365822877
+    second: Evo_21
+  - first:
+      213: -5380352591775095934
+    second: Evo_22
+  - first:
+      213: -175910225484917263
+    second: Evo_23
+  - first:
+      213: -5805755298038632826
+    second: Evo_24
+  - first:
+      213: -4232666350014036901
+    second: Evo_25
+  - first:
+      213: 350438826501778717
+    second: Evo_26
+  - first:
+      213: -6022166117134253633
+    second: Evo_27
+  - first:
+      213: 74298678864903629
+    second: Evo_28
+  - first:
+      213: -8358324490861481605
+    second: Evo_29
+  - first:
+      213: -7078619395278905610
+    second: Evo_30
+  - first:
+      213: -6323648486004618397
+    second: Evo_31
+  - first:
+      213: -3714694263619816102
+    second: Evo_32
+  - first:
+      213: -4858313944426349268
+    second: Evo_33
+  - first:
+      213: 6256386150155824430
+    second: Evo_34
+  - first:
+      213: -9082855693956664678
+    second: Evo_35
+  - first:
+      213: -4004323031040352285
+    second: Evo_36
+  - first:
+      213: 8137536970284178837
+    second: Evo_37
+  - first:
+      213: -8401388973171610867
+    second: Evo_38
+  - first:
+      213: 5794131828123889509
+    second: Evo_39
+  - first:
+      213: 929032159782603002
+    second: Evo_40
+  - first:
+      213: 2653599791519104220
+    second: Evo_41
+  - first:
+      213: 625533748228970626
+    second: Evo_42
+  - first:
+      213: -255914722984537229
+    second: Evo_43
+  - first:
+      213: 6474460761791498526
+    second: Evo_44
+  - first:
+      213: -8607740343118913223
+    second: Evo_45
+  - first:
+      213: 3408590178318939348
+    second: Evo_46
+  - first:
+      213: -3891416127151230295
+    second: Evo_47
+  - first:
+      213: 6177490892323832797
+    second: Evo_48
+  - first:
+      213: -2989524677888300416
+    second: Evo_0
+  - first:
+      213: -7175005705697163065
+    second: Evo_1
+  - first:
+      213: -480657210790888916
+    second: Evo_2
+  - first:
+      213: -4494480761249077760
+    second: Evo_3
+  - first:
+      213: -4636983674790152707
+    second: Evo_4
+  - first:
+      213: -3587178427241887580
+    second: Evo_5
+  - first:
+      213: -6583150164361818256
+    second: Evo_6
+  - first:
+      213: -3330131256007762809
+    second: Evo_7
+  - first:
+      213: -6208481031664483597
+    second: Evo_8
+  - first:
+      213: 6379692299437153154
+    second: Evo_9
+  - first:
+      213: 1891304208329570490
+    second: Evo_10
+  - first:
+      213: -1511501348515752729
+    second: Evo_11
+  - first:
+      213: 8149127899463049539
+    second: Evo_12
+  - first:
+      213: -220432714426702983
+    second: Evo_13
+  - first:
+      213: -217265397334414128
+    second: Evo_14
+  - first:
+      213: -9142633252010403892
+    second: Evo_15
+  - first:
+      213: 8754605472994257302
+    second: Evo_16
+  - first:
+      213: 4467588216353753431
+    second: Evo_17
+  - first:
+      213: -4196675406343559801
+    second: Evo_18
+  - first:
+      213: 1438878101999007292
+    second: Evo_19
+  - first:
+      213: -8869026527451687243
+    second: Evo_20
+  - first:
+      213: 4564465491575872188
+    second: Evo_21
+  - first:
+      213: -3568144049066621535
+    second: Evo_22
+  - first:
+      213: -2222646726665478445
+    second: Evo_23
+  - first:
+      213: -2938355509942292002
+    second: Evo_24
+  - first:
+      213: -4880219790383196873
+    second: Evo_25
+  - first:
+      213: -1921347174540398991
+    second: Evo_26
+  - first:
+      213: 4123352128915174893
+    second: Evo_27
+  - first:
+      213: 2145898864992511089
+    second: Evo_28
+  - first:
+      213: 7582674371343355434
+    second: Evo_29
+  - first:
+      213: -475084033632630838
+    second: Evo_30
+  - first:
+      213: 5274276069828512491
+    second: Evo_31
+  - first:
+      213: 8468554400444921764
+    second: Evo_32
+  - first:
+      213: -2344574832314389868
+    second: Evo_33
+  - first:
+      213: 3240298134690126915
+    second: Evo_34
+  - first:
+      213: -843708608455719958
+    second: Evo_35
+  - first:
+      213: -5346937820947249442
+    second: Evo_36
+  - first:
+      213: -3743518791480624357
+    second: Evo_37
+  - first:
+      213: 6051496320190568607
+    second: Evo_38
+  - first:
+      213: -7646021738236235230
+    second: Evo_39
+  - first:
+      213: 7311656713857918429
+    second: Evo_40
+  - first:
+      213: 1848686844946420511
+    second: Evo_41
+  - first:
+      213: 999636370823993665
+    second: Evo_42
+  - first:
+      213: -2315963802168766270
+    second: Evo_43
+  - first:
+      213: 8666463960795440964
+    second: Evo_44
+  - first:
+      213: 7962376909562116031
+    second: Evo_45
+  - first:
+      213: -1851658429357951443
+    second: Evo_46
+  - first:
+      213: -4884687760550696330
+    second: Evo_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Evo_0
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 2043
+        width: 208
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a243705231386d0800000000000000
+      internalID: -2989524677888300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_1
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2094
+        width: 206
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8058253524d6c90800000000000000
+      internalID: -7175005705697163065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_2
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 2185
+        width: 205
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a341c30dc5459f0800000000000000
+      internalID: -480657210790888916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_3
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 2256
+        width: 205
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006ebe77f8560a1c0800000000000000
+      internalID: -4494480761249077760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_4
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 2174
+        width: 208
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f8d26aef16afb0800000000000000
+      internalID: -4636983674790152707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_5
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 2116
+        width: 205
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a88d42e938c73ec0800000000000000
+      internalID: -3587178427241887580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1920
+        width: 208
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fc826fdc3f3a4a0800000000000000
+      internalID: -6583150164361818256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_7
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1991
+        width: 206
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c5b36344ff8c1d0800000000000000
+      internalID: -3330131256007762809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_8
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1983
+        width: 208
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f243e8456b07d9a0800000000000000
+      internalID: -6208481031664483597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_9
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1959
+        width: 207
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b1f346858398850800000000000000
+      internalID: 6379692299437153154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_10
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 2005
+        width: 225
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab87fab28234f3a10800000000000000
+      internalID: 1891304208329570490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_11
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 1942
+        width: 228
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4d1342881160be0800000000000000
+      internalID: -1511501348515752729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_12
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 1920
+        width: 339
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34168bc06a4871170800000000000000
+      internalID: 8149127899463049539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_13
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 1920
+        width: 302
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973a8b73d9dd0fcf0800000000000000
+      internalID: -220432714426702983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_14
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 1920
+        width: 262
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dce5e1b54e1cfcf0800000000000000
+      internalID: -217265397334414128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_15
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 1920
+        width: 259
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7de3e3f77de1180800000000000000
+      internalID: -9142633252010403892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_16
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 1280
+        width: 208
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69963863b4b9e7970800000000000000
+      internalID: 8754605472994257302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_17
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 1332
+        width: 206
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7598c7effcf000e30800000000000000
+      internalID: 4467588216353753431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_18
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 1423
+        width: 205
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785264fe3f962c5c0800000000000000
+      internalID: -4196675406343559801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_19
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 1494
+        width: 205
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c363db0a20ce7f310800000000000000
+      internalID: 1438878101999007292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_20
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 1411
+        width: 208
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d9b70d53eae480800000000000000
+      internalID: -8869026527451687243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_21
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 1354
+        width: 205
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba98e65e2d385f30800000000000000
+      internalID: 4564465491575872188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1157
+        width: 208
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5c5f764e76b7ec0800000000000000
+      internalID: -3568144049066621535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1226
+        width: 206
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5be304929721e0800000000000000
+      internalID: -2222646726665478445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_24
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1220
+        width: 208
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f3165b3dd837d0800000000000000
+      internalID: -2938355509942292002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_25
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1195
+        width: 207
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735d06805f9f54cb0800000000000000
+      internalID: -4880219790383196873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_26
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1243
+        width: 225
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ea15bace00655e0800000000000000
+      internalID: -1921347174540398991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_27
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 1180
+        width: 228
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5f6df2ae6193930800000000000000
+      internalID: 4123352128915174893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_28
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 1157
+        width: 339
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174eac3f5a3c7cd10800000000000000
+      internalID: 2145898864992511089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_29
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 1157
+        width: 302
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e016f7a221b3960800000000000000
+      internalID: 7582674371343355434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_30
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 1157
+        width: 262
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac70ed8a6992869f0800000000000000
+      internalID: -475084033632630838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_31
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 1157
+        width: 259
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beac875242ef13940800000000000000
+      internalID: 5274276069828512491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_32
+      rect:
+        serializedVersion: 2
+        x: 1534
+        y: 478
+        width: 208
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7379fdb59568570800000000000000
+      internalID: 8468554400444921764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_33
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 529
+        width: 206
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a6492bc95667fd0800000000000000
+      internalID: -2344574832314389868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_34
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 621
+        width: 205
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cd0945cf9d7fc20800000000000000
+      internalID: 3240298134690126915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_35
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 692
+        width: 205
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ce03ad7b8a44f0800000000000000
+      internalID: -843708608455719958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_36
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 609
+        width: 208
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed68652916cdbc5b0800000000000000
+      internalID: -5346937820947249442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_37
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 552
+        width: 205
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b3ccf3e795c0cc0800000000000000
+      internalID: -3743518791480624357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 355
+        width: 208
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98da8c47db3bf350800000000000000
+      internalID: 6051496320190568607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_39
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 424
+        width: 206
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222b38b4dbfd3e590800000000000000
+      internalID: -7646021738236235230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_40
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 418
+        width: 208
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e91dda09387560800000000000000
+      internalID: 7311656713857918429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_41
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 393
+        width: 207
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1318f504ead7a910800000000000000
+      internalID: 1848686844946420511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_42
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 441
+        width: 225
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1495683abfb6fdd00800000000000000
+      internalID: 999636370823993665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_43
+      rect:
+        serializedVersion: 2
+        x: 3916
+        y: 378
+        width: 228
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c05113413b0cdfd0800000000000000
+      internalID: -2315963802168766270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_44
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 355
+        width: 339
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447efe13e07754870800000000000000
+      internalID: 8666463960795440964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_45
+      rect:
+        serializedVersion: 2
+        x: 4749
+        y: 355
+        width: 302
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f83edc9b008e60800000000000000
+      internalID: 7962376909562116031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_46
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 355
+        width: 262
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d26f2c018769d46e0800000000000000
+      internalID: -1851658429357951443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Evo_47
+      rect:
+        serializedVersion: 2
+        x: 5491
+        y: 355
+        width: 259
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a6da9ac5a163cb0800000000000000
+      internalID: -4884687760550696330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
